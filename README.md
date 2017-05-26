@@ -1,5 +1,8 @@
 # AMXMODX Next Map Plugin
 
+![Alt text](/master/screenshot.jpg?raw=true "Optional Title")
+![Alt text](/screenshot.jpg?raw=true "Optional Title")
+
 ### CVARS
 ```SourcePawn
 xoe_nextmap_message
